@@ -1,3 +1,4 @@
 <?php
-header('Location: https://sites.google.com/sskru.ac.th/onanong/');
+echo "Nungnang";
+//header('Location: https://sites.google.com/sskru.ac.th/onanong/');
 ?>
